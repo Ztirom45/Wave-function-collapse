@@ -1,3 +1,4 @@
+#TODO: image_path = 0
 import pygame
 import random
 from PIL import Image as img
